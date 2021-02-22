@@ -23,6 +23,8 @@ Complete the following steps:
 
 * Using hvPlot, create an interactive visualization for the PYPL cumulative returns. Reflect the “time” column of the DataFrame on the x-axis. Make sure that you professionally style and format your visualization to enhance its readability.
 
+![pyplcumulative](./Images/pypl_cumulative.png)
+
 ## Optimize Data Access with Advanced SQL Queries
 For this part of the assignment, you’ll continue to analyze a single asset (PYPL) from the ETF. You’ll use advanced SQL queries to optimize the efficiency of accessing data from the database.
 
@@ -58,6 +60,7 @@ Complete the following steps:
 * Use the average daily returns in the etf_portfolio_returns DataFrame to calculate the cumulative returns of the ETF portfolio.
 
 * Using hvPlot, create an interactive line plot that visualizes the cumulative return values of the ETF portfolio. Reflect the “time” column of the DataFrame on the x-axis. Make sure that you professionally style and format your visualization to enhance its readability.
+![ETFcumulative](./Images/etf_cumulative.png)
 
 ## Deploy the Notebook as a Web Application
 For this part of the assignment, complete the following steps:
